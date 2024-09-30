@@ -99,15 +99,11 @@ afirmacao: ["Você tem um conhecimento aprofundado sobre os impactos das mudanç
 },
 {
 
-enunciado: "1 - Quais são algumas das principais causas das
-mudanças climáticas?",
-alternativas:
+enunciado: "1 - Quais são algumas das principais causas das mudanças climáticas?",alternativas:
 {
           texto: "a) Emissões de gases de efeito estufa",
-          afirmacao:["As emissões de gases de efeito estufa são uma
-das principais causas das mudanças climáticas. ",
-"Reduzir essas emissões é essencial para mitigar
-os impactos futuros."
+          afirmacao:["As emissões de gases de efeito estufa são uma das principais causas das mudanças climáticas. ",
+"Reduzir essas emissões é essencial para mitigar os impactos futuros."
 ]
 },
 {
@@ -134,60 +130,39 @@ equilíbrio climático."
 },
 {
            texto: "c) Uso de combustíveis fósseis",
-           afirmacao: ["O uso de combustíveis fósseis é uma das
-
-principais fontes de emissões de gases de efeito estufa. ",
-"A transição para energias renováveis é crucial
-para reduzir essas emissões."
+           afirmacao: ["O uso de combustíveis fósseis é uma das principais fontes de emissões de gases de efeito estufa. ",
+"A transição para energias renováveis é crucial para reduzir essas emissões."
 ]
 },
 {
              texto: "d) Todas as opções acima",
-            afirmacao:["Todas as opções mencionadas são causas
-             principais das mudanças climáticas. " ,
-                 "Combater esses fatores é necessário para
-proteger o futuro do planeta."
+            afirmacao:["Todas as opções mencionadas são causas principais das mudanças climáticas. " ,
+  "Combater esses fatores é necessário para proteger o futuro do planeta."
 ]
 }
 ]
 },
 {
-        enunciado: "2 - Quais são alguns dos efeitos imediatos das mudanças
-climáticas em diferentes regiões do mundo?",
+        enunciado: "2 - Quais são alguns dos efeitos imediatos das mudanças climáticas em diferentes regiões do mundo?",
         alternativas: [
 {
 texto: "a) Aumento das temperaturas médias",
-afirmacao:["O aumento das temperaturas médias é um efeito
+afirmacao:["O aumento das temperaturas médias é um efeito imediato das mudanças climáticas. ",
 
-imediato das mudanças climáticas. ",
-
-"Este aumento pode levar a ondas de calor mais
-
-frequentes e intensas."
+"Este aumento pode levar a ondas de calor mais frequentes e intensas."
 ]
 },
 {
-texto: "b) Aumento da frequência de eventos climáticos
+texto: "b) Aumento da frequência de eventos climáticos extremos",
 
-extremos",
-
-afirmacao: ["A maior frequência de eventos climáticos
-
-extremos é um impacto direto das mudanças climáticas. ",
-
-"Esses eventos incluem furacões, inundações e
-
-secas mais severas."
+afirmacao: ["A maior frequência de eventos climáticos extremos é um impacto direto das mudanças climáticas. ",
+"Esses eventos incluem furacões, inundações e secas mais severas."
 ]
 },
 {
 texto: "c) Acidificação dos oceanos",
-afirmacao: ["A acidificação dos oceanos é uma consequência
-
-das mudanças climáticas. ",
-
-"Este fenômeno afeta a vida marinha,
-especialmente os corais e as espécies que dependem deles."
+afirmacao: ["A acidificação dos oceanos é uma consequência das mudanças climáticas. ",
+"Este fenômeno afeta a vida marinha, especialmente os corais e as espécies que dependem deles."
 
 ]
 },
@@ -207,10 +182,7 @@ caixaAlternativas.textContent = "";
 }
 mostraPergunta();
 imediatos das mudanças climáticas. ",
-
-"Esses efeitos combinados têm consequências
-
-graves para ecossistemas e populações humanas."
+"Esses efeitos combinados têm consequências graves para ecossistemas e populações humanas."
 
 ]
 }
@@ -222,52 +194,30 @@ mitigar as mudanças climáticas?",
 alternativas: [
 {
 texto: "a) Investimento em energias renováveis",
-afirmacao: ["O investimento em energias renováveis é uma
-
-das principais medidas para mitigar as mudanças climáticas. ",
-
-"Fontes como solar e eólica são fundamentais
-
-para uma economia de baixo carbono.".
+afirmacao: ["O investimento em energias renováveis é uma das principais medidas para mitigar as mudanças climáticas. ",
+"Fontes como solar e eólica são fundamentais para uma economia de baixo carbono.".
 
 ]
 },
 {
-texto: "b) Implementação de políticas de conservação
-
-ambiental",
-
-afirmacao:["A implementação de políticas de conservação
-
-ambiental é crucial para combater as mudanças climáticas. ",
-"Essas políticas incluem a proteção de
-
-florestas, áreas úmidas e biodiversidade."
+texto: "b) Implementação de políticas de conservação ambiental",
+afirmacao:["A implementação de políticas de conservação ambiental é crucial para combater as mudanças climáticas. ",
+"Essas políticas incluem a proteção de florestas, áreas úmidas e biodiversidade."
 
 ]
 },
 {
 texto: "c) Acordos internacionais como o Acordo de Paris",
-afirmacao: ["Acordos internacionais como o Acordo de Paris
-
-são essenciais para a ação climática global. ",
-
-"Esses acordos estabelecem metas para a redução
-
-das emissões de gases de efeito estufa."
+afirmacao: ["Acordos internacionais como o Acordo de Paris são essenciais para a ação climática global. ",
+"Esses acordos estabelecem metas para a redução das emissões de gases de efeito estufa."
 
 ]
 },
 
 {
 texto: "d) Todas as opções acima",
-afirmacao: ["Todas as medidas mencionadas são importantes
-
-para mitigar as mudanças climáticas. ",
-
-"A cooperação internacional e o compromisso
-
-contínuo são fundamentais para o sucesso."
+afirmacao: ["Todas as medidas mencionadas são importantes para mitigar as mudanças climáticas. ", 
+"A cooperação internacional e o compromisso contínuo são fundamentais para o sucesso."
 
 ]
 }
